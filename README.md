@@ -1,2 +1,8 @@
 # Rootlevel-Server-Certificates-as-NFTs
-Root-level Server Certificates As NFTS
+
+Hybrid, Hyperledger-like environ
+
+Consulting (Cybersecurity)
+
+Part of dCEH (?)
+
